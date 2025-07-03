@@ -25,7 +25,9 @@ A simple Java console application that performs CRUD operations (Create, Read, U
 ## Database Schema
 
 --sql
+
 CREATE DATABASE company;
+
 USE company;
 
 CREATE TABLE employees_details (
