@@ -1,4 +1,4 @@
-# 💼 Java JDBC – Employee Database App
+# Java JDBC – Employee Database App
 
 A simple Java console application that performs CRUD operations (Create, Read, Update, Delete) on an employee database using **JDBC** and **MySQL**.
 
